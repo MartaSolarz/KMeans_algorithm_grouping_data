@@ -30,4 +30,4 @@ Data includes Age-Adjusted Incidence Rate([rate note]) - cases per 100,000 and v
 - ```StandardScaler``` from ```sklearn.preprocessing``` 
 - ```matplotlib.pyplot``` 
 
-**Author:** Marta Solarz
+*Author: Marta Solarz*
