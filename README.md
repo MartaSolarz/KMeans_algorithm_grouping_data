@@ -4,7 +4,7 @@
 ### **List of contents:**
 1. General information about the K-Means algorithm
 2. Data information
-3. Used Python modules
+3. Python modules used
 
 ![Gif](https://upload.wikimedia.org/wikipedia/commons/e/ea/K-means_convergence.gif)
 
@@ -20,7 +20,7 @@ Source and more information: *https://www.educba.com/k-means-clustering-algorith
 
 Data includes Age-Adjusted Incidence Rate([rate note]) - cases per 100,000 and various statistical parameters (confidence intervals) referenced to U.S. county spatial units. They come from an external source - PostgreSQL relational database. The files contain a CSV file. Access to data obtained for the Data Science course organized by the CODE:ME foundation.
 
-### 3. Used Python modules ###
+### 3. Python modules used ###
 - ```pandas```
 - ```create_engine``` from ```sqlalchemy```
 - ```yaml```
